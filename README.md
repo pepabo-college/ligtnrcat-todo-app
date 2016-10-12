@@ -1,1 +1,4 @@
-Web+DB PRESS Vol.92『Web 開発新人研修』の内容 + タスク期限通知機能
+# README
+
+- ActionMailerの送信確認方法
+ - env MAIL_ADDRESS="sample@mail.com" env MAIL_PASSWORD="hogehoge" rails c
